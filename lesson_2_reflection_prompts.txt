@@ -26,5 +26,7 @@ They help me organize the projects. They make the job kind of easy.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It's like adding two different features. It's intuitive.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
